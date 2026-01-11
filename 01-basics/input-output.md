@@ -1,0 +1,122 @@
+**-----------------------------------------------**
+## Input and Output
+
+**Inputmeans the program gets something from the user**
+**Outputmeans the program shows something to the user**
+
+# The user gives input.  
+# The program gives output.
+**-----------------------------------------------**
+
+# What is your favorite color?
+START
+    PRINT "What is your favorite color?"
+    INPUT  color
+    PRINT "Your favorite color is " + color + "!"
+END
+
+# Enter a number
+START
+    PRINT "Enter a number:"
+    INPUT number
+    PRINT "You entered: " + number
+END
+
+# Enter your name
+START
+    PRINT "Enter your name:"
+    INPUT name
+    PRINT "Hello " + name + "!"
+END
+
+# What is your favorite number ?
+START
+    PRINT "What is your favorite number?"
+    INPUT favoriteNumber
+    PRINT "Your favorite number is " + favoriteNumber + "!"
+END
+
+# What is your favorite animal ?
+START
+    PRINT "What is your favorite animal?"
+    INPUT animal
+    PRINT "Your favorite animal is " + animal + "!"
+END
+
+# What is your favorite food?
+START
+    PRINT "What is your favorite food?"
+    INPUT food
+    PRINT "Yummy! I like " + food + " too!"
+END
+
+# Display the sum of the two numbers num1 and num2
+START 
+    PRINT "Enter the first number:"
+    INPUT num1
+    PRINT "Enter the second number:"
+    INPUT num2
+    SET sum = num1 + num2
+    PRINT "The sum of " + num1 + " and " + num2 + " is " + sum + "!"
+END
+
+# Enter your city
+START
+    PRINT "Enter your city:"
+    INPUT city
+    PRINT "You live in " + city
+END
+
+# Enter your name and age
+START
+    PRINT "Enter your name:"
+    INPUT name
+    PRINT "Enter your age:"
+    INPUT age
+    PRINT "Your Name is " + name + " and you are " + age + " years old."
+END
+
+# Enter your numbers
+START
+    PRINT "Enter first number:"
+    INPUT a
+    PRINT "Enter second number:"
+    INPUT b
+    SET result TO a * b
+    PRINT "RESULT: " + result
+END
+
+# Enter your favorite movie
+START
+    PRINT "Enter your favorite movie:"
+    INPUT movie
+    PRINT "Your favorite movie is " + movie
+    PRINT movie + " is a great choice!"
+END
+
+# Enter your product name 
+START
+    PRINT "Enter product name:"
+    INPUT product
+    PRINT "Enter price:"
+    INPUT price
+    PRINT "The price of " + product + " is " + price + " Euro."
+END
+
+# Set a number
+START 
+    PRINT "Enter a number:"
+    INPUT n
+    SET double TO n * 2
+    PRINT "Double of the number is " + double
+END
+
+# Name and favorite color
+START
+    PRINT "Enter your name:"
+    INPUT name
+    PRINT "Enter your favorite color:"
+    INPUT color
+    PRINT "Hello " + name + "!"
+    PRINT "Your favorite color is " + color + "."
+END
