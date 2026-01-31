@@ -1,4 +1,4 @@
-**-----------------------------------------------**
+**-----------------------------------------------** 
 ## Input and Output
 
 **Inputmeans the program gets something from the user**
